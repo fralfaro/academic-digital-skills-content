@@ -19,4 +19,4 @@ Microsoft Word es un dolor de cabeza para informes técnicos. Las ecuaciones que
 
 > Tu próximo informe puede verse como un paper de verdad. Mira la clase y escribe tu primer documento en LaTeX.
 
-📚 **Clase completa:** [Presentación de Overleaf](https://fralfaro.github.io/talks/tools/overleaf/presentacion.html#/title-slide)
+📚 **Clase completa:** [Presentación de Overleaf](https://fralfaro.github.io/talks/tools/latex/presentacion.html#/title-slide)
